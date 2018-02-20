@@ -1,0 +1,7 @@
+theme color = #f78f20;
+
+font color = #333333;
+
+search background = #f8f8f8;
+
+border color = #ececec;
