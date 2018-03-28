@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	background-color: #d2d6de;
+}
+
+/*.container{
+	background-color: #d2d6de;
+}*/
+
+.login-box {
+    padding: 10% 30%;
+}
+
+.login-box-body{
+	background-color: #fff;
+	padding: 7%;
+}
+
+.checkbox label, .radio label {
+    padding-left: 4px;
+}
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus
+{
+    color: #fff;
+    background-color: #f78f20;
+    border-color: #fff;
+}
